@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <style>
+    .fg { stroke: #1a1a1a; }
+    @media (prefers-color-scheme: dark) {
+      .fg { stroke: #e8e8e8; }
+    }
+  </style>
+  <rect x="4" y="6" width="24" height="20" rx="2.5" ry="2.5"
+        fill="none" class="fg" stroke-width="2"/>
+  <line x1="9"  y1="12" x2="23" y2="12" class="fg" stroke-width="2" stroke-linecap="round"/>
+  <line x1="9"  y1="16" x2="23" y2="16" class="fg" stroke-width="2" stroke-linecap="round"/>
+  <line x1="9"  y1="20" x2="17" y2="20" class="fg" stroke-width="2" stroke-linecap="round"/>
+</svg>
